@@ -4,7 +4,7 @@ const projectsData = {
         title: "Multipay",
         category: "Payment Systems",
         brief: "A comprehensive payment gateway integration system that supports multiple payment methods and providers.",
-        role: "Developer, Continues, and Maintainer",
+        role: "Developer, Continuous, and Maintainer",
         timeline: "2023 - Present",
         technologies: ["PHP", "Laravel", "MySQL", "RESTful API", "Payment Gateway Integrations"],
         mainImage: "../assets/img/img_1_big.jpg",
