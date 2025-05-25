@@ -1,0 +1,864 @@
+{
+    "resumeVersion": {
+        "_id": "678ca71432cb4a221ac8ad2f",
+        "files": {
+            "resumeWithCoverLetter": false,
+            "resume": false,
+            "coverLetter": false
+        },
+        "template": {
+            "language": "en",
+            "watermark": false,
+            "style": {
+                "paperFormat": {
+                    "type": "a4"
+                },
+                "layout": {
+                    "type": "full-one-column"
+                },
+                "sectionVisibility": {
+                    "experience": true,
+                    "education": true,
+                    "certificates": true,
+                    "skills": true,
+                    "languages": true,
+                    "summary": true,
+                    "projects": true,
+                    "internships": true,
+                    "volunteering": false,
+                    "licenses": false,
+                    "courses": false,
+                    "conferences": false,
+                    "publications": false,
+                    "awards": false,
+                    "hobbies": false,
+                    "references": false
+                },
+                "sectionOrder": {
+                    "auto": true,
+                    "oneColumn": {
+                        "primary": [
+                            {
+                                "contentType": "summary"
+                            },
+                            {
+                                "contentType": "experience"
+                            },
+                            {
+                                "contentType": "education"
+                            },
+                            {
+                                "contentType": "skills"
+                            },
+                            {
+                                "contentType": "languages"
+                            },
+                            {
+                                "contentType": "projects"
+                            },
+                            {
+                                "contentType": "internships"
+                            }
+                        ]
+                    },
+                    "twoColumns": {
+                        "primary": [
+                            {
+                                "contentType": "experience"
+                            },
+                            {
+                                "contentType": "education"
+                            },
+                            {
+                                "contentType": "projects"
+                            },
+                            {
+                                "contentType": "internships"
+                            }
+                        ],
+                        "secondary": [
+                            {
+                                "contentType": "summary"
+                            },
+                            {
+                                "contentType": "skills"
+                            },
+                            {
+                                "contentType": "languages"
+                            }
+                        ]
+                    }
+                },
+                "spacing": {
+                    "contentContainer": {
+                        "marginTop": 54
+                    },
+                    "contentItemBlock": {
+                        "marginTop": 22
+                    },
+                    "skillTypeItem": {
+                        "marginTop": 8
+                    }
+                },
+                "background": {
+                    "type": "",
+                    "color": ""
+                },
+                "typography": {
+                    "invertedMainColor": false,
+                    "type": "",
+                    "color": ""
+                },
+                "elements": {
+                    "name": {
+                        "fontFamily": "Montserrat",
+                        "fontWeight": 700
+                    }
+                },
+                "profileImage": {
+                    "border": {
+                        "radius": 50
+                    }
+                },
+                "headers": {
+                    "underline": {
+                        "type": "dotted",
+                        "color": "#888888"
+                    },
+                    "text": {
+                        "auto": true,
+                        "values": {
+                            "experience": "",
+                            "education": "",
+                            "certificates": "",
+                            "skills": "",
+                            "languages": "",
+                            "summary": "",
+                            "projects": "",
+                            "internships": "",
+                            "volunteering": "",
+                            "licenses": "",
+                            "courses": "",
+                            "conferences": "",
+                            "publications": "",
+                            "awards": "",
+                            "hobbies": "",
+                            "references": ""
+                        }
+                    }
+                },
+                "icons": true
+            }
+        },
+        "description": {
+            "title": "Abdullah Hafizh"
+        },
+        "settings": {
+            "language": {
+                "name": "english"
+            }
+        },
+        "status": {
+            "generationNo": 0,
+            "generating": false,
+            "generated": false
+        },
+        "createdAt": "2025-01-19T06:50:32.000Z",
+        "updatedAt": "2025-05-16T17:05:36.189Z",
+        "jobDescriptionAnalysis": {
+            "status": {
+                "matchRate": 0
+            }
+        }
+    },
+    "profile": {
+        "data": {
+            "personal": {
+                "firstName": "Abdullah",
+                "lastName": "Hafizh",
+                "title": "Software Developer | Backend Systems | API Integrations | Continuous Improvement",
+                "phone": "+6282111928009",
+                "email": "abdllhhafizh@gmail.com",
+                "website": "",
+                "city": "South Jakarta",
+                "state": "Indonesia"
+            },
+            "image": {
+                "data": "",
+                "contentType": ""
+            },
+            "education": [
+                {
+                    "school": "SMKN 10 Jakarta / 10th Jakarta State Vocational High School",
+                    "degree": "Vocational High School",
+                    "field": "Software Engineer",
+                    "dateStartMonth": 7,
+                    "dateStartYear": 2016,
+                    "dateEndMonth": 6,
+                    "description": "Topics covered include programming fundamentals, desktop, web, and mobile application development, software testing, project management, and information technology ethics and law.\n\n• Programming Fundamentals\n• Desktop, Web, and Mobile Application Development\n• Software Testing\n• Project Management\n• Information Technology Ethics and Law",
+                    "dateEnd": 2018,
+                    "_id": "678ca71432cb4a221ac8ad30"
+                }
+            ],
+            "experience": [
+                {
+                    "name": "PT Multidaya Dinamika",
+                    "title": "Continuous Improvement Engineer",
+                    "url": "https://multidaya.id",
+                    "dateStartMonth": 1,
+                    "dateStartYear": 2025,
+                    "current": true,
+                    "description": "• Addressing problems with production. / Penanganan isu produksi.\n• Optimization of the system. / Optimasi sistem.\n• Project management. / Manajemen proyek.\n• Controlling the quality of application products. / Kontrol kualitas produk aplikasi.\n• Analyze the application system. / Analisis sistem aplikasi.\n• Application system development. / Pengembangan sistem aplikasi.\n• Support the development crew. / Mendukung tim pengembang.\n• Manage all areas of the software development and production processes to guarantee that the program runs smoothly and production issues are dealt with quickly and effectively. / Mengelola seluruh aspek proses perbaikan perangkat lunak dan produksi untuk memastikan bahwa perangkat lunak berfungsi secara optimal dan isu produksi dapat diselesaikan dengan cepat dan efektif.\n• Timely resolution of production difficulties. / Penyelesaian isu produksi secara tepat waktu.\n• Improving software performance via continuous improvement strategies. / Peningkatan kinerja perangkat lunak melalui solusi perbaikan berkelanjutan.\n• Effective collaboration among connected teams. / Kolaborasi yang efektif dengan tim terkait.\n• Enhancing efficient and high-quality production and development processes. / Proses pengembangan dan produksi yang lebih efisien dan berkualitas tinggi.",
+                    "_id": "678ca71432cb4a221ac8ad31",
+                    "dateEndMonth": null,
+                    "dateEndYear": null
+                },
+                {
+                    "name": "PT Multidaya Dinamika",
+                    "title": "Senior Backend Developer",
+                    "url": "https://multidaya.id",
+                    "dateStartMonth": 8,
+                    "dateStartYear": 2022,
+                    "dateEndMonth": 1,
+                    "dateEndYear": 2025,
+                    "description": "",
+                    "_id": "678ca71432cb4a221ac8ad32"
+                },
+                {
+                    "name": "CV Inti Multi Solusi",
+                    "title": "Freelance Programmer",
+                    "url": "https://imsgrow.com",
+                    "dateStartYear": 2022,
+                    "dateEndYear": 2022,
+                    "description": "Freelance for Government Projects",
+                    "_id": "678ca71432cb4a221ac8ad33"
+                },
+                {
+                    "name": "PT Multidaya Dinamika",
+                    "title": "Backend Developer",
+                    "url": "https://multidaya.id",
+                    "dateStartMonth": 9,
+                    "dateStartYear": 2019,
+                    "dateEndMonth": 8,
+                    "dateEndYear": 2022,
+                    "description": "• Created, developed, and maintained several content management systems (CMS) and API integrations for large-scale projects, utilizing frameworks such as Laravel, CodeIgniter, Lumen, and Go. Membuat, mengembangkan, dan memelihara beberapa Content Management System (CMS) dan integrasi API untuk proyek skala besar, menggunakan framework seperti Laravel, CodeIgniter, Lumen, dan Go.\n• Created and optimized APIs for financial systems such as QRIS, virtual accounts, online debit/credit, and retail payments using top platforms like Doku, Xendit, Flip, Midtrans, and Big Flip. Membuat dan mengoptimalkan API untuk sistem keuangan seperti QRIS, Virtual Account, Online Debit/Kredit, dan Pembayaran Retail menggunakan platform terkemuka seperti Doku, Xendit, Flip, Midtrans, dan Big Flip.\n• Engineered seamless API integrations for payment aggregators including OVO, LinkAja, BCA, Mandiri, and BNI, assuring SIT, UAT, and PTR compliance. Mengembangkan integrasi API yang mulus untuk agregator pembayaran termasuk OVO, LinkAja, BCA, Mandiri, dan BNI, memastikan kepatuhan terhadap proses SIT, UAT, dan PTR.\n• Created microservices and services for e-money systems such as Emoney, Brizzi, Tapcash, and Flazz, with a focus on toll gate top-ups for key highways (for example, Jasamarga and Hutama Karya). / Membuat microservices dan layanan untuk sistem uang elektronik seperti Emoney, Brizzi, Tapcash, dan Flazz, dengan fokus pada top-up gerbang tol untuk jalan tol utama (misalnya, Jasamarga dan Hutama Karya).\n• Maintained and enhanced a payment gateway dashboard (React) with backend services for a wide range of payments, including QRIS, virtual accounts, and retail payments. Memelihara dan meningkatkan Dashboard Payment Gateway (React) dengan layanan backend untuk berbagai jenis pembayaran, termasuk QRIS, Virtual Account, dan Pembayaran Retail.\n• Built a Socket.IO server using Deno and PM2 for real-time data transfer, as well as a Callback Notification Worker in Golang to handle asynchronous notifications. Membangun server Socket.IO menggunakan Deno dan PM2 untuk transfer data real-time, serta Callback Notification Worker di Golang untuk menangani notifikasi asinkron.\n• Led the creation and maintenance of CMS and API systems for a wide range of applications, including point-of-sale (POS), parking aggregator systems, and smartcard prepaid services. Memimpin pembuatan dan pemeliharaan sistem CMS dan API untuk berbagai aplikasi, termasuk point-of-sale (POS), sistem agregator parkir, dan layanan prabayar kartu pintar.\n• Implemented strong API connectors for electronic money top-ups at Transjakarta kiosks and other transportation systems. / Mengimplementasikan konektor API yang kuat untuk top-up uang elektronik di kios Transjakarta dan sistem transportasi lainnya.\n• Worked with cross-functional teams to develop scalable systems for settlement, reporting, and merchant onboarding. / Bekerja dengan tim lintas fungsi untuk mengembangkan sistem yang dapat diskalakan untuk settlement, pelaporan, dan onboarding merchant.\n• Successfully integrated complex APIs and microservices across many industries, including transportation, finance, and retail, while meeting demanding performance and reliability standards. Berhasil mengintegrasikan API dan microservices yang kompleks di berbagai industri, termasuk transportasi, keuangan, dan ritel, sambil memenuhi standar kinerja dan keandalan yang tinggi.\n• Improved system performance for high-volume payment processing systems, resulting in secure and efficient transactions. / Meningkatkan kinerja sistem untuk sistem pemrosesan pembayaran dengan volume tinggi, menghasilkan transaksi yang aman dan efisien.",
+                    "_id": "678ca71432cb4a221ac8ad34"
+                },
+                {
+                    "name": "PT Anilo Adikarya Sentosa",
+                    "title": "Junior Programmer",
+                    "url": "https://anilo.id",
+                    "dateStartMonth": 9,
+                    "dateStartYear": 2018,
+                    "dateEndMonth": 9,
+                    "dateEndYear": 2019,
+                    "description": "• Developed and maintained Fellowship Content Management Systems (CMS) for organizations including Himpunan Nelayan Indonesia, Gereja Methodist Indonesia, and Alumni Penabur Indonesia (ALPENINDO) using CodeIgniter. / Mengembangkan dan memelihara Fellowship Content Management System (CMS) untuk organisasi seperti Himpunan Nelayan Indonesia, Gereja Methodist Indonesia, dan Alumni Penabur Indonesia (ALPENINDO) menggunakan CodeIgniter.\n• Designed, developed, and maintained the Content Management System Attendance and Reporting System (Reasoca) for students, parents, teachers, and head teachers across schools using Laravel, providing attendance tracking, reporting, and analytics. / Merancang, mengembangkan, dan memelihara Sistem Manajemen Konten Kehadiran dan Laporan (Reasoca) untuk siswa, orang tua, guru, dan kepala sekolah di berbagai sekolah menggunakan Laravel, menyediakan pelacakan kehadiran, pelaporan, dan analitik.\n• Developed and maintained the PPOB Billing Content Management System (Anipay) using CodeIgniter, enabling client-specific price and product status configuration, along with chart-based reporting and data export features. Mengembangkan dan memelihara sistem manajemen konten penagihan PPOB (Anipay) menggunakan CodeIgniter, memungkinkan konfigurasi harga dan status produk khusus klien, serta fitur pelaporan berbasis grafik dan ekspor data.",
+                    "_id": "678ca71432cb4a221ac8ad35"
+                }
+            ],
+            "skills": [
+                {
+                    "name": "Javascript",
+                    "rating": 4,
+                    "_id": "678e0ce032cb4a221ae31fe6"
+                },
+                {
+                    "name": "JQuery",
+                    "rating": 4,
+                    "_id": "678e0ce032cb4a221ae31fe7"
+                },
+                {
+                    "name": "Laravel",
+                    "rating": 4,
+                    "_id": "678e0ce032cb4a221ae31fe8"
+                },
+                {
+                    "name": "PHP",
+                    "rating": 4,
+                    "_id": "678e0ce032cb4a221ae31fe9"
+                },
+                {
+                    "name": "Twitter Bootstrap",
+                    "rating": 4,
+                    "_id": "678e0ce032cb4a221ae31fea"
+                },
+                {
+                    "name": "CSS",
+                    "rating": 3,
+                    "_id": "678e0ce032cb4a221ae31feb"
+                },
+                {
+                    "name": "Laravel Lumen",
+                    "rating": 3,
+                    "_id": "678e0ce032cb4a221ae31fec"
+                },
+                {
+                    "name": "MySQL",
+                    "rating": 3,
+                    "_id": "678e0ce032cb4a221ae31fed"
+                },
+                {
+                    "name": "Nuxt",
+                    "rating": 3,
+                    "_id": "678e0ce032cb4a221ae31fee"
+                },
+                {
+                    "name": "Codeigniter",
+                    "rating": 2,
+                    "_id": "678e0ce032cb4a221ae31fef"
+                },
+                {
+                    "name": "Docker",
+                    "rating": 2,
+                    "_id": "678e0ce032cb4a221ae31ff0"
+                },
+                {
+                    "name": "NodeJS",
+                    "rating": 2,
+                    "_id": "678e0ce032cb4a221ae31ff1"
+                },
+                {
+                    "name": "PostgreSQL",
+                    "rating": 2,
+                    "_id": "678e0ce032cb4a221ae31ff2"
+                },
+                {
+                    "name": "ReactJS",
+                    "rating": 2,
+                    "_id": "678e0ce032cb4a221ae31ff3"
+                },
+                {
+                    "name": "Redis",
+                    "rating": 2,
+                    "_id": "678e0ce032cb4a221ae31ff4"
+                },
+                {
+                    "name": "Vue",
+                    "rating": 2,
+                    "_id": "678e0ce032cb4a221ae31ff5"
+                },
+                {
+                    "name": "Deno",
+                    "rating": 1,
+                    "_id": "678e0ce032cb4a221ae31ff6"
+                },
+                {
+                    "name": "Go",
+                    "rating": 1,
+                    "_id": "678e0ce032cb4a221ae31ff7"
+                },
+                {
+                    "name": "Nginx",
+                    "rating": 1,
+                    "_id": "678e0ce032cb4a221ae31ff8"
+                },
+                {
+                    "name": "Socket.IO",
+                    "rating": 1,
+                    "_id": "678e0ce032cb4a221ae31ff9"
+                },
+                {
+                    "name": "Typescript",
+                    "rating": 1,
+                    "_id": "678e0ce032cb4a221ae31ffa"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "rating": 1,
+                    "_id": "678ca71432cb4a221ac8ad36"
+                },
+                {
+                    "name": "Bahasa",
+                    "rating": 4,
+                    "_id": "678ca71432cb4a221ac8ad37"
+                }
+            ],
+            "certificates": [],
+            "summary": {
+                "body": "Experienced software developer with competence in software design, installation, testing, and maintenance. Proficient with a variety of platforms, languages, and embedded systems. Experienced with the most recent cutting-edge development tools and methods. Capable of efficiently self-managing separate projects while also collaborating as part of a productive team."
+            },
+            "cover": {
+                "companyName": "",
+                "companyStreetAddress": "",
+                "companyCity": "",
+                "letter": "",
+                "split": true,
+                "greeting": "",
+                "paragraph1": "",
+                "paragraph2": "",
+                "paragraph3": "",
+                "paragraph4": "",
+                "closing": "",
+                "isSet": false
+            },
+            "projects": [
+                {
+                    "_id": "678e0b5b475b6e9ea9a073c4",
+                    "role": "Developer, Continues, and Maintainer",
+                    "description": "",
+                    "name": "Tap on Bus",
+                    "dateStartMonth": 10,
+                    "dateStartYear": 2024,
+                    "dateEndMonth": 10,
+                    "dateEndYear": 2024
+                },
+                {
+                    "_id": "678e0aa5475b6e9ea9a073c3",
+                    "role": "Developer and Continous",
+                    "description": "",
+                    "name": "Dolan",
+                    "url": "https://dolanapp.com",
+                    "dateStartMonth": 12,
+                    "dateStartYear": 2023,
+                    "current": true,
+                    "dateEndMonth": null,
+                    "dateEndYear": null
+                },
+                {
+                    "_id": "678e0648475b6e9ea9a073c2",
+                    "role": "Lead Developer, Lead Continous, and Lead Maintainer",
+                    "description": "• Xfers integration\n• Bigflip integration (https://flip.id/business)\n• B-Secure Integration (GPN Debit)",
+                    "name": "Multipay (Payment Gateway)",
+                    "url": "https://multipay.multidaya.id",
+                    "dateStartMonth": 1,
+                    "dateStartYear": 2022,
+                    "current": true,
+                    "dateEndMonth": null,
+                    "dateEndYear": null
+                },
+                {
+                    "_id": "678e04de475b6e9ea9a073c1",
+                    "role": "Developer",
+                    "description": "",
+                    "name": "Toll (Freeway) Topup",
+                    "dateStartMonth": 4,
+                    "dateStartYear": 2021,
+                    "dateEndMonth": 7,
+                    "dateEndYear": 2021
+                },
+                {
+                    "_id": "678e03ad475b6e9ea9a073c0",
+                    "role": "Developer, Continous, and Maintainer",
+                    "description": "",
+                    "name": "TMII (Taman Mini Indonesia Indah) Gate and E-Ticketing",
+                    "dateStartMonth": 6,
+                    "dateStartYear": 2021,
+                    "dateEndMonth": 6,
+                    "dateEndYear": 2021
+                },
+                {
+                    "_id": "678e0352475b6e9ea9a073bf",
+                    "role": "Developer and Continous",
+                    "description": "",
+                    "name": "Touchless Beverage Vending Machine",
+                    "dateStartMonth": 1,
+                    "dateStartYear": 2021,
+                    "dateEndMonth": 1,
+                    "dateEndYear": 2021
+                },
+                {
+                    "_id": "678e030a475b6e9ea9a073be",
+                    "role": "Continous and Maintainer",
+                    "description": "",
+                    "name": "SMT (Settlement Monitoring Tool)",
+                    "dateStartMonth": 4,
+                    "dateStartYear": 2021,
+                    "current": true,
+                    "dateEndMonth": null,
+                    "dateEndYear": null
+                },
+                {
+                    "_id": "678e02a6475b6e9ea9a073bd",
+                    "role": "Developer, Continuous, and Maintainer",
+                    "description": "",
+                    "name": "GBK Gate and E-Ticketing",
+                    "dateStartMonth": 5,
+                    "dateStartYear": 2020,
+                    "current": true,
+                    "dateEndMonth": null,
+                    "dateEndYear": null
+                },
+                {
+                    "_id": "678dfbc9475b6e9ea9a073bc",
+                    "role": "Developer",
+                    "description": "",
+                    "name": "UNIK P.O.S.",
+                    "dateStartMonth": 12,
+                    "dateStartYear": 2019,
+                    "dateEndMonth": 9,
+                    "dateEndYear": 2020
+                },
+                {
+                    "_id": "678dfb2d475b6e9ea9a073bb",
+                    "role": "Developer, Continuous, and Maintainer",
+                    "description": "",
+                    "name": "MDS (Merchant Desk System)",
+                    "url": "https://merchant-desk.multidaya.id",
+                    "dateStartMonth": 2,
+                    "current": true,
+                    "dateEndMonth": null,
+                    "dateEndYear": null,
+                    "dateStartYear": 2020
+                },
+                {
+                    "_id": "678dfa0d475b6e9ea9a073ba",
+                    "role": "Developer, Continous, and Maintainer",
+                    "description": "",
+                    "name": "PAS (Parking Aggregator System)",
+                    "dateStartMonth": 9,
+                    "dateStartYear": 2019,
+                    "current": true,
+                    "dateEndMonth": null,
+                    "dateEndYear": null
+                },
+                {
+                    "_id": "678df865475b6e9ea9a073b9",
+                    "name": "Kasirku",
+                    "role": "Developer",
+                    "description": "",
+                    "url": "https://multidaya.id/solution/kasirku",
+                    "dateStartMonth": 12,
+                    "dateStartYear": 2019,
+                    "dateEndMonth": 1,
+                    "dateEndYear": 2020
+                },
+                {
+                    "_id": "678df808475b6e9ea9a073b8",
+                    "role": "Developer and Continous",
+                    "description": "",
+                    "name": "Trendpos",
+                    "dateStartMonth": 10,
+                    "dateStartYear": 2019,
+                    "dateEndMonth": 12,
+                    "dateEndYear": 2019
+                },
+                {
+                    "_id": "678df790475b6e9ea9a073b7",
+                    "role": "Continuous and Maintainer",
+                    "description": "",
+                    "name": "Multidaya Core Engine",
+                    "current": true,
+                    "dateEndMonth": null,
+                    "dateEndYear": null,
+                    "dateStartMonth": 12,
+                    "dateStartYear": 2019
+                }
+            ],
+            "internships": [
+                {
+                    "_id": "678e0d3f475b6e9ea9a073c5",
+                    "title": "Junior Programmer",
+                    "description": "",
+                    "name": "PT Artivisi Intermedia",
+                    "url": "https://artivisi.com",
+                    "dateStartMonth": 4,
+                    "dateEndMonth": 6,
+                    "dateEndYear": 2017,
+                    "dateStartYear": 2017
+                }
+            ],
+            "volunteering": [],
+            "licenses": [],
+            "courses": [],
+            "conferences": [],
+            "publications": [],
+            "awards": [],
+            "hobbies": [],
+            "references": []
+        },
+        "validity": {
+            "personal": {
+                "isInvalid": false
+            },
+            "experience": {
+                "isInvalid": false,
+                "serverChecked": [
+                    "678ca71432cb4a221ac8ad31",
+                    "678ca71432cb4a221ac8ad32",
+                    "678ca71432cb4a221ac8ad33",
+                    "678ca71432cb4a221ac8ad34",
+                    "678ca71432cb4a221ac8ad35"
+                ]
+            },
+            "education": {
+                "isInvalid": false,
+                "serverChecked": [
+                    "678ca71432cb4a221ac8ad30"
+                ]
+            },
+            "certificates": {
+                "isInvalid": false,
+                "serverChecked": []
+            },
+            "languages": {
+                "isInvalid": false,
+                "serverChecked": [
+                    "678ca71432cb4a221ac8ad36",
+                    "678ca71432cb4a221ac8ad37"
+                ]
+            },
+            "skills": {
+                "isInvalid": false,
+                "serverChecked": [
+                    "678e0ce032cb4a221ae31fe6",
+                    "678e0ce032cb4a221ae31fe7",
+                    "678e0ce032cb4a221ae31fe8",
+                    "678e0ce032cb4a221ae31fe9",
+                    "678e0ce032cb4a221ae31fea",
+                    "678e0ce032cb4a221ae31feb",
+                    "678e0ce032cb4a221ae31fec",
+                    "678e0ce032cb4a221ae31fed",
+                    "678e0ce032cb4a221ae31fee",
+                    "678e0ce032cb4a221ae31fef",
+                    "678e0ce032cb4a221ae31ff0",
+                    "678e0ce032cb4a221ae31ff1",
+                    "678e0ce032cb4a221ae31ff2",
+                    "678e0ce032cb4a221ae31ff3",
+                    "678e0ce032cb4a221ae31ff4",
+                    "678e0ce032cb4a221ae31ff5",
+                    "678e0ce032cb4a221ae31ff6",
+                    "678e0ce032cb4a221ae31ff7",
+                    "678e0ce032cb4a221ae31ff8",
+                    "678e0ce032cb4a221ae31ff9",
+                    "678e0ce032cb4a221ae31ffa"
+                ]
+            },
+            "summary": {
+                "isInvalid": false
+            },
+            "cover": {
+                "isInvalid": false
+            },
+            "projects": {
+                "isInvalid": false,
+                "serverChecked": [
+                    "678e0b5b475b6e9ea9a073c4",
+                    "678e0aa5475b6e9ea9a073c3",
+                    "678e0648475b6e9ea9a073c2",
+                    "678e04de475b6e9ea9a073c1",
+                    "678e03ad475b6e9ea9a073c0",
+                    "678e0352475b6e9ea9a073bf",
+                    "678e030a475b6e9ea9a073be",
+                    "678e02a6475b6e9ea9a073bd",
+                    "678dfbc9475b6e9ea9a073bc",
+                    "678dfb2d475b6e9ea9a073bb",
+                    "678dfa0d475b6e9ea9a073ba",
+                    "678df865475b6e9ea9a073b9",
+                    "678df808475b6e9ea9a073b8",
+                    "678df790475b6e9ea9a073b7"
+                ]
+            },
+            "internships": {
+                "isInvalid": false,
+                "serverChecked": [
+                    "678e0d3f475b6e9ea9a073c5"
+                ]
+            },
+            "volunteering": {
+                "isInvalid": false,
+                "serverChecked": []
+            },
+            "licenses": {
+                "isInvalid": false,
+                "serverChecked": []
+            },
+            "courses": {
+                "isInvalid": false,
+                "serverChecked": []
+            },
+            "conferences": {
+                "isInvalid": false,
+                "serverChecked": []
+            },
+            "publications": {
+                "isInvalid": false,
+                "serverChecked": []
+            },
+            "awards": {
+                "isInvalid": false,
+                "serverChecked": []
+            },
+            "hobbies": {
+                "isInvalid": false,
+                "serverChecked": []
+            },
+            "references": {
+                "isInvalid": false,
+                "serverChecked": []
+            }
+        }
+    },
+    "guide": {
+        "history": [
+            {
+                "name": "profile.menu.intro._1",
+                "createdAt": "2025-01-19T07:17:40.819Z"
+            },
+            {
+                "name": "profile.menu.intro._2",
+                "createdAt": "2025-01-19T07:17:40.819Z"
+            },
+            {
+                "name": "profile.menu.intro._3",
+                "createdAt": "2025-01-19T07:17:40.819Z"
+            },
+            {
+                "name": "profile.personal.intro",
+                "createdAt": "2025-01-19T07:17:40.819Z"
+            },
+            {
+                "name": "profile.experience.intro._1",
+                "createdAt": "2025-01-19T07:17:40.819Z"
+            },
+            {
+                "name": "profile.experience.intro._2",
+                "createdAt": "2025-01-19T07:17:40.819Z"
+            },
+            {
+                "name": "profile.experience.accomplishments.intro._1",
+                "createdAt": "2025-01-19T07:17:40.819Z"
+            },
+            {
+                "name": "profile.experience.accomplishments.intro._2",
+                "createdAt": "2025-01-19T07:17:40.819Z"
+            },
+            {
+                "name": "profile.experience.accomplishments.intro._3",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.experience.accomplishments.questions._2",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.experience.accomplishments.recipe",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.internships.intro._1",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.internships.intro._2",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.education.intro._1",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.education.highSchool",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.education.achievements.intro._1",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.education.achievements.intro._2",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.skills.intro._1",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.skills.intro._2",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.skills.intro._3",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.skills.intro._4",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.languages.intro._1",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.languages.intro._2",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.languages.rating._1",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.languages.rating._2",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.summary.intro._1",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.summary.intro._2",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.summary.steps",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.projects.intro._1",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "profile.projects.intro._2",
+                "createdAt": "2025-01-19T07:17:40.820Z"
+            },
+            {
+                "name": "target.home.intro._1",
+                "createdAt": "2025-01-19T07:18:00.701Z"
+            },
+            {
+                "name": "target.home.intro._2",
+                "createdAt": "2025-01-19T07:18:00.701Z"
+            },
+            {
+                "name": "target.home.intro._3",
+                "createdAt": "2025-01-19T07:18:00.701Z"
+            },
+            {
+                "name": "profile.personal.titleMatch._1",
+                "createdAt": "2025-01-20T06:59:57.483Z"
+            },
+            {
+                "name": "profile.personal.titleMatch._2",
+                "createdAt": "2025-01-20T06:59:57.483Z"
+            },
+            {
+                "name": "profile.personal.autoSave",
+                "createdAt": "2025-01-20T06:59:59.904Z"
+            },
+            {
+                "name": "profile.skills.rating._1",
+                "createdAt": "2025-01-20T07:21:57.202Z"
+            },
+            {
+                "name": "profile.skills.rating._2",
+                "createdAt": "2025-01-20T07:21:57.202Z"
+            },
+            {
+                "name": "profile.projects.accomplishments.intro._1",
+                "createdAt": "2025-01-20T07:47:10.978Z"
+            },
+            {
+                "name": "profile.projects.accomplishments.intro._2",
+                "createdAt": "2025-01-20T07:47:10.978Z"
+            },
+            {
+                "name": "profile.projects.accomplishments.intro._3",
+                "createdAt": "2025-01-20T07:47:10.978Z"
+            }
+        ]
+    },
+    "versionAnalysisStatus": {
+        "hasSeenIntro": false
+    }
+}
